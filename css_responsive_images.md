@@ -1,8 +1,10 @@
 # Responsive Images from Scratch with SCSS/Sass
 
+## 2/17/16
+
 If you're not using a framework like Bootstrap or Foundation, but you'd like your images to automatically resize while keeping their aspect ratios, use the following SCSS:
 
-```css
+```scss
 #container-div {
   overflow: hidden;
   img {
